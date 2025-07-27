@@ -1,0 +1,11 @@
+/mnt/c/github/quic_message_system/easy_quic/target/debug/deps/arboard-c476de910ec9a18c.d: /home/ttyn4/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.0/src/lib.rs /home/ttyn4/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.0/src/common.rs /home/ttyn4/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.0/src/platform/mod.rs /home/ttyn4/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.0/src/platform/linux/mod.rs /home/ttyn4/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.0/src/platform/linux/x11.rs
+
+/mnt/c/github/quic_message_system/easy_quic/target/debug/deps/libarboard-c476de910ec9a18c.rlib: /home/ttyn4/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.0/src/lib.rs /home/ttyn4/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.0/src/common.rs /home/ttyn4/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.0/src/platform/mod.rs /home/ttyn4/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.0/src/platform/linux/mod.rs /home/ttyn4/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.0/src/platform/linux/x11.rs
+
+/mnt/c/github/quic_message_system/easy_quic/target/debug/deps/libarboard-c476de910ec9a18c.rmeta: /home/ttyn4/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.0/src/lib.rs /home/ttyn4/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.0/src/common.rs /home/ttyn4/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.0/src/platform/mod.rs /home/ttyn4/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.0/src/platform/linux/mod.rs /home/ttyn4/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.0/src/platform/linux/x11.rs
+
+/home/ttyn4/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.0/src/lib.rs:
+/home/ttyn4/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.0/src/common.rs:
+/home/ttyn4/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.0/src/platform/mod.rs:
+/home/ttyn4/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.0/src/platform/linux/mod.rs:
+/home/ttyn4/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.0/src/platform/linux/x11.rs:

@@ -1,0 +1,6 @@
+{
+  "bind_addr": "127.0.0.1:0",
+  "server_addr": "127.0.0.1:4433",
+  "server_name": "localhost",
+  "keep_alive_interval_secs": 5
+}

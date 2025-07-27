@@ -1,0 +1,11 @@
+/mnt/c/github/quic_message_system/easy_quic/target/release/deps/wayland_sys-3d3d108c4fb01b9f.d: /home/ttyn4/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.6/src/lib.rs /home/ttyn4/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.6/src/common.rs /home/ttyn4/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.6/src/client.rs /home/ttyn4/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.6/src/server.rs /home/ttyn4/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.6/src/egl.rs
+
+/mnt/c/github/quic_message_system/easy_quic/target/release/deps/libwayland_sys-3d3d108c4fb01b9f.rlib: /home/ttyn4/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.6/src/lib.rs /home/ttyn4/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.6/src/common.rs /home/ttyn4/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.6/src/client.rs /home/ttyn4/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.6/src/server.rs /home/ttyn4/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.6/src/egl.rs
+
+/mnt/c/github/quic_message_system/easy_quic/target/release/deps/libwayland_sys-3d3d108c4fb01b9f.rmeta: /home/ttyn4/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.6/src/lib.rs /home/ttyn4/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.6/src/common.rs /home/ttyn4/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.6/src/client.rs /home/ttyn4/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.6/src/server.rs /home/ttyn4/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.6/src/egl.rs
+
+/home/ttyn4/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.6/src/lib.rs:
+/home/ttyn4/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.6/src/common.rs:
+/home/ttyn4/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.6/src/client.rs:
+/home/ttyn4/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.6/src/server.rs:
+/home/ttyn4/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.6/src/egl.rs:
